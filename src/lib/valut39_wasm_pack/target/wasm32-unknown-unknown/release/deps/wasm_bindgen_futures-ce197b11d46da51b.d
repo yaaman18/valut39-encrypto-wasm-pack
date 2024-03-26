@@ -1,0 +1,9 @@
+/Users/yamaguchimitsuyuki/wsm/src/lib/valut39_wasm_pack/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-ce197b11d46da51b.rmeta: /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/yamaguchimitsuyuki/wsm/src/lib/valut39_wasm_pack/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-ce197b11d46da51b.rlib: /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/yamaguchimitsuyuki/wsm/src/lib/valut39_wasm_pack/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-ce197b11d46da51b.d: /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs:
+/Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs:
+/Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs:

@@ -1,0 +1,23 @@
+{
+	"rustc": 17912920042806394156,
+	"features": "[]",
+	"declared_features": "",
+	"target": 1804888543815068759,
+	"profile": 14094339167972473758,
+	"path": 25859604434450217,
+	"deps": [
+		[12601942501152950002, "inout", false, 12651410132594321748],
+		[15349877456970498084, "crypto_common", false, 10489437590373531442]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "wasm32-unknown-unknown/release/.fingerprint/cipher-149282400a687b77/dep-lib-cipher"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 8273356103737446388,
+	"config": 2202906307356721367,
+	"compile_kind": 8104632896995515128
+}

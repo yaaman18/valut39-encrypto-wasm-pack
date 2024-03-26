@@ -1,0 +1,10 @@
+/Users/yamaguchimitsuyuki/wsm/src/lib/valut39_wasm_pack/target/release/deps/libversion_check-d051dce3197fa946.rmeta: /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/yamaguchimitsuyuki/wsm/src/lib/valut39_wasm_pack/target/release/deps/libversion_check-d051dce3197fa946.rlib: /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/yamaguchimitsuyuki/wsm/src/lib/valut39_wasm_pack/target/release/deps/version_check-d051dce3197fa946.d: /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/yamaguchimitsuyuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:
